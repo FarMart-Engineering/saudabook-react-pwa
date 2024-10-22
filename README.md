@@ -1,1 +1,1 @@
-A development branch for saudabook-react-pwa.
+A staging branch for saudabook-react-pwa.
